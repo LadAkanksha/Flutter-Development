@@ -1,2 +1,4 @@
 # Flutter-Development
-Flutter Development Using Dart Language
+Flutter is a free, open-source, cross-platform UI software development kit (SDK) created by Google for building applications for mobile, web, and desktop from a single codebase, using the Dart programming language.Frontend and full-stack developers use Flutter to build an application's user interface (UI) for multiple platforms with a single codebase.Flutter is designed to support mobile apps that run on both Android and iOS, as well as interactive apps that you want to run on your web pages or on the desktop.
+
+Dart is a programming language, while Flutter is a framework built on top of it, providing tools and libraries for building user interfaces. The Dart language is designed to be easy to learn and aligns well with Flutter's reactive style framework, enabling developers to create high-performance, cross-platform apps with a single codebase. Dart has a robust ecosystem with a wide variety of packages and libraries, including those specifically designed for Flutter development. 
